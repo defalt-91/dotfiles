@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../../devtools/projects/shell-chrome/src/devtools.ts"],
+  "sourcesContent": ["/**\n * @license\n * Copyright Google LLC All Rights Reserved.\n *\n * Use of this source code is governed by an MIT-style license that can be\n * found in the LICENSE file at https://angular.io/license\n */\n\n/// <reference types=\"chrome\"/>\nchrome.devtools.panels.create('Angular', 'assets/icon-bw16.png', 'index.html');\n"],
+  "mappings": ";AAAA,AASA,OAAO,SAAS,OAAO,OAAO,WAAW,wBAAwB;",
+  "names": []
+}
